@@ -22,7 +22,7 @@ unsigned long previousMillis = 0;
 int bpm = 60;  // beats per minute
 int stepIndex = 0;
 float stepDuration = 0; // duration of a quarter beat in ms, initially set in setup()
-const int tempoDelta = 24; 
+const int tempoDelta = 12; 
 
 // 16 LED neopixel ring
 const int npNum = 16;
