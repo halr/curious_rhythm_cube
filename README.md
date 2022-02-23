@@ -1,7 +1,6 @@
 # Curious Rhythm Cube
 A gesture controlled Bluetooth MIDI rhythm machine.
-* rhythmCube — Arduino sketch folder
-    * rhythmCube.ino — the Arduino sketch
+* rhythmCube.ino — the Arduino sketch
 
 ## BOM
 This is the bill of the materials I used for this project. Not included are jumper wires, etc.
